@@ -11,14 +11,14 @@
 	custom_configured_screen = true
 
 [blocks]
-	planter = true
+	planter = false
 	clock_block = true
 	pedestal = true
 	wind_vane = true
 	redstone_illuminator = true
 	notice_board = true
 	crank = true
-	jar = true
+	jar = false
 	jar_tinted = false
 	faucet = true
 	turn_table = true
@@ -26,10 +26,10 @@
 	speaker_block = true
 	sign_post = true
 	hanging_sign = true
-	bellows = true
+	bellows = false
 	sconce = true
 	sconce_green = false
-	cage = true
+	cage = false
 	item_shelf = true
 	sconce_lever = true
 	cog_block = true
@@ -39,11 +39,11 @@
 	blackboard = true
 	safe = true
 	copper_lantern = true
-	flute = true
+	flute = false
 	gold_trapdoor = true
 	gold_door = true
 	bamboo_spikes = true
-	bamboo_spikes_tipped = true
+	bamboo_spikes_tipped = false
 	stone_lamp = true
 	end_stone_lamp = true
 	blackstone_lamp = true
@@ -57,7 +57,7 @@
 	rope = true
 	rope_arrow = true
 	pulley_block = true
-	fodder = true
+	fodder = false
 	bomb = true
 	crimson_lantern = true
 	magma_cream_block = true
@@ -88,4 +88,5 @@
 	globe_sepia = true
 	#WIP
 	present = true
+
 
