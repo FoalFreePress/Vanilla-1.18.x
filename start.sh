@@ -28,7 +28,7 @@ do
 
 ulimit -a
 
-java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.18.1-39.0.9-log-ips/unix_args.txt "$@"
+java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.18.1-39.0.9-log-ips/unix_args.txt nogui
 
 ~/bin/backup-minecraft-full.sh
 
