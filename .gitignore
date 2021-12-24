@@ -17,9 +17,11 @@ minecraft.pid
 /world/datapacks/
 /world/deaths/
 /world/DIM1/data/
+/world/DIM1/entities/
 /world/DIM1/poi/
 /world/DIM1/region/
 /world/DIM-1/data/
+/world/DIM-1/entities/
 /world/DIM-1/poi/
 /world/DIM-1/region/
 /world/dimensions/
@@ -32,4 +34,4 @@ minecraft.pid
 /world/level.*
 /world/session.lock
 /world/touchfile
-
+/world/delete-world.sh

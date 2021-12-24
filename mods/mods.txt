@@ -19,7 +19,7 @@
 -rw-rw-r-- 1 sweetie sweetie 8.6K Dec 19 16:41 MiniEffects-1.18-forge-4.0.0.jar
 -rw-rw-r-- 1 sweetie sweetie  69K Dec 19 16:41 MouseTweaks-forge-mc1.18-2.16.jar
 -rw-rw-r-- 1 sweetie sweetie 223K Dec 19 16:41 selene-1.18-1.11.jar
--rw-rw-r-- 1 sweetie sweetie  13K Dec 19 16:41 ServerRestarter-1.18.1-1.jar
+-rw-rw-r-- 1 sweetie sweetie  14K Dec 24 14:26 serverrestart-1.18.1-0.0.1.jar
 -rw-rw-r-- 1 sweetie sweetie 107K Dec 19 16:41 Snow!+Real+Magic!-1.18-forge-3.0.1.jar
 -rw-rw-r-- 1 sweetie sweetie  81K Dec 19 16:41 stonecutter_recipe_tags-2.0.1.jar
 -rw-rw-r-- 1 sweetie sweetie  12M Dec 19 16:41 supplementaries-1.18-1.0.7.jar
